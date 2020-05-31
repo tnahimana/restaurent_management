@@ -1,10 +1,10 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'kigali@kigali');
-define('DB_NAME', 'restaurent_management');
+define('DB_SERVER', '142.93.41.188');
+define('DB_USERNAME', 'dqwawsnkgn');
+define('DB_PASSWORD', 'h95GKy8KWq');
+define('DB_NAME', 'dqwawsnkgn');
 date_default_timezone_set('Africa/Kigali');
 
  
