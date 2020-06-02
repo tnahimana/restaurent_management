@@ -3,7 +3,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 <?php
-$con = mysqli_connect("64.227.45.83","snvgussnmm","Z9XRV8mbtU","snvgussnmm");
+$con = mysqli_connect("178.62.67.45","zsqknnyqqh","6Ruxt64Z4G","zsqknnyqqh");
 session_start();
 $_SESSION['timestamp']=time();
 
